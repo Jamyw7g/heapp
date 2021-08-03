@@ -8,7 +8,7 @@ readme = "README.md"
 documentation = "https://docs.rs/heapp"
 repository = "https://github.com/Jamyw7g/heapp"
 keywords = ["heap", "algorithms", "slice"]
-categories = ["algorithms", "no-standard-library"]
+categories = ["algorithms", "no-std"]
 exclude = []
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
